@@ -1,0 +1,10 @@
+== Singleton Logger Test ==
+Logger started at 14:02:15
+[14:02:15] [INFO] (1) Application started
+[14:02:15] [WARN] (2) Low memory warning
+Same logger instance? true
+[14:02:15] [DEBUG] (3) Thread Worker-1 logging
+[14:02:15] [DEBUG] (4) Thread Worker-2 logging
+[14:02:15] [DEBUG] (5) Thread Worker-3 logging
+[14:02:15] [ERROR] (6) Final log entry
+Still same instance? true

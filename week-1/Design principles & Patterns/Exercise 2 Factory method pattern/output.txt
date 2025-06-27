@@ -1,0 +1,11 @@
+=== Creating Word Document ===
+Opening a Word document...
+Saving the Word document.
+
+=== Creating PDF Document ===
+Opening a PDF document...
+Saving the PDF document.
+
+=== Creating Excel Document ===
+Opening an Excel document...
+Saving the Excel document.

@@ -1,0 +1,13 @@
+Linear Search:
+Time Complexity:O(n)
+Best Case: O(1)
+Worst Case: O(n)
+
+Binary Search:
+Time Complexity: O(log n)
+Requires sorted data.
+Best Case: O(1)
+Worst Case: O(log n)
+
+Conclusion:
+Binary Search is preferred for sorted product lists as it significantly reduces search time on large datasets.

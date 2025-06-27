@@ -1,0 +1,8 @@
+Recursion
+A function that calls itself to solve smaller subproblems
+Useful for breaking complex tasks into simpler, repetitive steps
+
+Time Complexity
+O(n) where n = number of years
+Each recursive call calculates the value for the next year
+
